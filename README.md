@@ -1,2 +1,2 @@
 # JustiSite
-Site
+Site of Justidiax (IT youtuber)
